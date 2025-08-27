@@ -52,4 +52,4 @@ Disallow: /
 User-agent: DotBot
 Crawl-delay: 10
 
-Sitemap: https://iwrite.com/sitemap.xml
+Sitemap: https://iwrite.site/sitemap.xml
