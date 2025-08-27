@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <!-- Main Pages -->
     <url>
         <loc>https://iwrite.site/</loc>
         <lastmod>2025-01-27</lastmod>
@@ -25,98 +26,396 @@
         <priority>0.3</priority>
     </url>
     <url>
+        <loc>https://iwrite.site/samples.html</loc>
+        <lastmod>2025-01-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
         <loc>https://iwrite.site/blog.html</loc>
         <lastmod>2025-01-27</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
+
+    <!-- Service Pages -->
     <url>
-        <loc>https://iwrite.site/services/white-paper-writing.html</loc>
+        <loc>https://iwrite.site/white-paper-writing-service.html</loc>
         <lastmod>2025-01-27</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://iwrite.site/services/grant-writing.html</loc>
+        <loc>https://iwrite.site/grant-writing-services.html</loc>
         <lastmod>2025-01-27</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://iwrite.site/services/business-plan-writing.html</loc>
+        <loc>https://iwrite.site/business-plan-writing-service.html</loc>
         <lastmod>2025-01-27</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://iwrite.site/services/medical-writing.html</loc>
+        <loc>https://iwrite.site/medical-writing-services.html</loc>
         <lastmod>2025-01-27</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://iwrite.site/services/technical-writing.html</loc>
+        <loc>https://iwrite.site/technical-writing-services.html</loc>
         <lastmod>2025-01-27</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://iwrite.site/services/rfp-writing.html</loc>
+        <loc>https://iwrite.site/rfp-writing-services.html</loc>
         <lastmod>2025-01-27</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://iwrite.site/services/crisis-communication.html</loc>
+        <loc>https://iwrite.site/crisis-communication-services.html</loc>
         <lastmod>2025-01-27</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://iwrite.site/services/case-study-writing.html</loc>
+        <loc>https://iwrite.site/case-study-writing-service.html</loc>
         <lastmod>2025-01-27</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://iwrite.site/services/sales-copywriting.html</loc>
+        <loc>https://iwrite.site/sales-copywriting-services.html</loc>
         <lastmod>2025-01-27</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://iwrite.site/services/executive-ghostwriting.html</loc>
+        <loc>https://iwrite.site/executive-ghostwriting-services.html</loc>
         <lastmod>2025-01-27</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>
     </url>
+
+    <!-- Blog Articles - White Paper Writing -->
     <url>
-        <loc>https://iwrite.site/blog/how-to-write-a-white-paper.html</loc>
-        <lastmod>2025-01-27</lastmod>
+        <loc>https://iwrite.site/blog/how-to-write-white-paper.html</loc>
+        <lastmod>2025-01-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://iwrite.site/blog/how-to-write-a-grant-proposal.html</loc>
-        <lastmod>2025-01-27</lastmod>
+        <loc>https://iwrite.site/blog/white-paper-examples.html</loc>
+        <lastmod>2025-01-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://iwrite.site/blog/how-to-write-a-business-plan.html</loc>
-        <lastmod>2025-01-27</lastmod>
+        <loc>https://iwrite.site/blog/white-paper-template.html</loc>
+        <lastmod>2025-01-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
+    <url>
+        <loc>https://iwrite.site/blog/what-is-white-paper.html</loc>
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://iwrite.site/blog/white-paper-format.html</loc>
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Blog Articles - Grant Writing -->
+    <url>
+        <loc>https://iwrite.site/blog/how-to-write-grant-proposal.html</loc>
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://iwrite.site/blog/grant-proposal-examples.html</loc>
+        <lastmod>2025-01-12</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://iwrite.site/blog/grant-writing-certification.html</loc>
+        <lastmod>2025-01-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://iwrite.site/blog/grant-writing-tips.html</loc>
+        <lastmod>2025-01-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://iwrite.site/blog/grant-proposal-template.html</loc>
+        <lastmod>2025-01-05</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Blog Articles - Business Plan Writing -->
+    <url>
+        <loc>https://iwrite.site/blog/how-to-write-business-plan.html</loc>
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://iwrite.site/blog/business-plan-examples.html</loc>
+        <lastmod>2025-01-12</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://iwrite.site/blog/business-plan-template.html</loc>
+        <lastmod>2025-01-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://iwrite.site/blog/what-is-business-plan.html</loc>
+        <lastmod>2025-01-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://iwrite.site/blog/business-plan-format.html</loc>
+        <lastmod>2025-01-05</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Blog Articles - Medical Writing -->
     <url>
         <loc>https://iwrite.site/blog/medical-writing-certification.html</loc>
-        <lastmod>2025-01-27</lastmod>
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://iwrite.site/blog/medical-writing-jobs.html</loc>
+        <lastmod>2025-01-12</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://iwrite.site/blog/medical-writing-examples.html</loc>
+        <lastmod>2025-01-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://iwrite.site/blog/what-is-medical-writing.html</loc>
+        <lastmod>2025-01-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://iwrite.site/blog/medical-writing-courses.html</loc>
+        <lastmod>2025-01-05</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Blog Articles - Technical Writing -->
+    <url>
+        <loc>https://iwrite.site/blog/technical-writing-certification.html</loc>
+        <lastmod>2025-01-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://iwrite.site/blog/technical-writing-examples.html</loc>
-        <lastmod>2025-01-27</lastmod>
+        <lastmod>2025-01-12</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://iwrite.site/blog/technical-writing-jobs.html</loc>
+        <lastmod>2025-01-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://iwrite.site/blog/what-is-technical-writing.html</loc>
+        <lastmod>2025-01-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://iwrite.site/blog/technical-writing-courses.html</loc>
+        <lastmod>2025-01-05</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Blog Articles - RFP Writing -->
+    <url>
+        <loc>https://iwrite.site/blog/how-to-write-rfp.html</loc>
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://iwrite.site/blog/rfp-examples.html</loc>
+        <lastmod>2025-01-12</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://iwrite.site/blog/rfp-template.html</loc>
+        <lastmod>2025-01-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://iwrite.site/blog/what-is-rfp.html</loc>
+        <lastmod>2025-01-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://iwrite.site/blog/rfp-response-template.html</loc>
+        <lastmod>2025-01-05</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Blog Articles - Crisis Communication -->
+    <url>
+        <loc>https://iwrite.site/blog/crisis-communication-plan.html</loc>
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://iwrite.site/blog/crisis-communication-examples.html</loc>
+        <lastmod>2025-01-12</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://iwrite.site/blog/crisis-communication-strategy.html</loc>
+        <lastmod>2025-01-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://iwrite.site/blog/what-is-crisis-communication.html</loc>
+        <lastmod>2025-01-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://iwrite.site/blog/crisis-communication-plan-template.html</loc>
+        <lastmod>2025-01-05</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Blog Articles - Case Study Writing -->
+    <url>
+        <loc>https://iwrite.site/blog/how-to-write-case-study.html</loc>
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://iwrite.site/blog/case-study-examples.html</loc>
+        <lastmod>2025-01-12</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://iwrite.site/blog/case-study-template.html</loc>
+        <lastmod>2025-01-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://iwrite.site/blog/what-is-case-study.html</loc>
+        <lastmod>2025-01-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://iwrite.site/blog/case-study-format.html</loc>
+        <lastmod>2025-01-05</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Blog Articles - Sales Copywriting -->
+    <url>
+        <loc>https://iwrite.site/blog/sales-copywriting-examples.html</loc>
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://iwrite.site/blog/how-to-write-sales-copy.html</loc>
+        <lastmod>2025-01-12</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://iwrite.site/blog/sales-copywriting-tips.html</loc>
+        <lastmod>2025-01-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://iwrite.site/blog/what-is-sales-copywriting.html</loc>
+        <lastmod>2025-01-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://iwrite.site/blog/sales-copywriting-course.html</loc>
+        <lastmod>2025-01-05</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Blog Articles - Executive Ghostwriting -->
+    <url>
+        <loc>https://iwrite.site/blog/ghostwriting-services-near-me.html</loc>
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://iwrite.site/blog/how-to-become-ghostwriter.html</loc>
+        <lastmod>2025-01-12</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://iwrite.site/blog/ghostwriting-jobs.html</loc>
+        <lastmod>2025-01-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://iwrite.site/blog/what-is-ghostwriting.html</loc>
+        <lastmod>2025-01-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://iwrite.site/blog/ghostwriting-rates.html</loc>
+        <lastmod>2025-01-05</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
