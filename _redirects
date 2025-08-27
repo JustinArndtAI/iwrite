@@ -6,14 +6,26 @@
 /privacy /privacy.html 200
 /samples /samples.html 200
 
-# Service pages
-/services/white-paper-writing /services/white-paper-writing.html 200
-/services/grant-writing /services/grant-writing.html 200
-/services/business-plan-writing /services/business-plan-writing.html 200
-/services/medical-writing /services/medical-writing.html 200
-/services/technical-writing /services/technical-writing.html 200
-/services/rfp-writing /services/rfp-writing.html 200
-/services/crisis-communication /services/crisis-communication.html 200
-/services/case-study-writing /services/case-study-writing.html 200
-/services/sales-copywriting /services/sales-copywriting.html 200
-/services/executive-ghostwriting /services/executive-ghostwriting.html 200
+# Service pages - NEW STRUCTURE (files in root)
+/white-paper-writing-service /white-paper-writing-service.html 200
+/grant-writing-services /grant-writing-services.html 200
+/business-plan-writing-service /business-plan-writing-service.html 200
+/medical-writing-services /medical-writing-services.html 200
+/technical-writing-services /technical-writing-services.html 200
+/rfp-writing-services /rfp-writing-services.html 200
+/crisis-communication-services /crisis-communication-services.html 200
+/case-study-writing-service /case-study-writing-service.html 200
+/sales-copywriting-services /sales-copywriting-services.html 200
+/executive-ghostwriting-services /executive-ghostwriting-services.html 200
+
+# Redirect OLD service URLs to NEW ones (301 permanent redirect)
+/services/white-paper-writing /white-paper-writing-service.html 301
+/services/grant-writing /grant-writing-services.html 301
+/services/business-plan-writing /business-plan-writing-service.html 301
+/services/medical-writing /medical-writing-services.html 301
+/services/technical-writing /technical-writing-services.html 301
+/services/rfp-writing /rfp-writing-services.html 301
+/services/crisis-communication /crisis-communication-services.html 301
+/services/case-study-writing /case-study-writing-service.html 301
+/services/sales-copywriting /sales-copywriting-services.html 301
+/services/executive-ghostwriting /executive-ghostwriting-services.html 301
