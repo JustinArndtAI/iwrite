@@ -1,0 +1,19 @@
+# Cloudflare Pages redirect rules
+# Handle pages without .html extension
+/about /about.html 200
+/contact /contact.html 200
+/blog /blog.html 200
+/privacy /privacy.html 200
+/samples /samples.html 200
+
+# Service pages
+/services/white-paper-writing /services/white-paper-writing.html 200
+/services/grant-writing /services/grant-writing.html 200
+/services/business-plan-writing /services/business-plan-writing.html 200
+/services/medical-writing /services/medical-writing.html 200
+/services/technical-writing /services/technical-writing.html 200
+/services/rfp-writing /services/rfp-writing.html 200
+/services/crisis-communication /services/crisis-communication.html 200
+/services/case-study-writing /services/case-study-writing.html 200
+/services/sales-copywriting /services/sales-copywriting.html 200
+/services/executive-ghostwriting /services/executive-ghostwriting.html 200
